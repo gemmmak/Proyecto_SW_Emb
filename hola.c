@@ -1,4 +1,8 @@
 #include <stdio.h>
+#include <math.h>
+
+int cd_player(int a);
+int bt_player(int a);
 
 int main()
 {
