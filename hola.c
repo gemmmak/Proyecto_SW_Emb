@@ -3,6 +3,7 @@
 
 int cd_player(int a);
 int bt_player(int a);
+int g;
 
 int main()
 {
